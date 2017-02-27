@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<h1 style="color: red;">Currently Under Construction</h1>
+<img src="http://www.southernfowler.com/wp-content/uploads/2016/05/UNDER-CONSTRUCTION.gif"></img>
